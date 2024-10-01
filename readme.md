@@ -10,4 +10,4 @@ Voici donc un petit tableau du contenu= (Revenez souvent car ça va évoluer) :
 5. [Bibliothéque d'intérêt : `numpy`]()
 6. [Bibliothéque d'intérêt : `mathplotlib`]()
 7. [Bibliothéque d'intérêt : `math`]()
-8. [Modélisation avec `polyfit`]()
+8. [Modélisation avec `polyfit` et `lingress`](modelisation.md)
