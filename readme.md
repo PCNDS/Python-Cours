@@ -10,6 +10,4 @@ Voici donc un petit tableau du contenu= (Revenez souvent car ça va évoluer) :
 5. [Bibliothéque d'intérêt : `numpy`]()
 6. [Bibliothéque d'intérêt : `mathplotlib`]()
 7. [Bibliothéque d'intérêt : `math`]()
-
-> [!Tip]
-> Here is a tip buddy ! 
+8. [Modélisation avec `polyfit`]()
