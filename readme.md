@@ -7,5 +7,5 @@ Voici donc un petit tableau du contenu= (Revenez souvent car ça va évoluer) :
 2. [Règles de Syntaxe]()
 3. 
 
-[!Tip]
+> [!Tip]
 > Here is a tip buddy ! 
