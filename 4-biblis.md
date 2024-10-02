@@ -34,8 +34,8 @@ Ici on donne l'instruction de chercher dans la bibliothéque "math" et d'importe
 
 > [!NOTE]
 > **A noter :**
-- importation d'une bibliothéque dans votre IDE nécessite une connexion internet, si cela n'a jamais été fait avant
-- importation d'une seule fonction est *beaucoup* plus rapide qu'uen bibliothéque entière, et donc si vous ne comptais utiliser pas plusieurs fonction, il vaut mieux d'importer seulement la fonction nécessaire. 
+> - importation d'une bibliothéque dans votre IDE nécessite une connexion internet, si cela n'a jamais été fait avant
+> - importation d'une seule fonction est *beaucoup* plus rapide qu'uen bibliothéque entière, et donc si vous ne comptais utiliser pas plusieurs fonction, il vaut mieux d'importer seulement la fonction nécessaire. 
 
 Afin d'utiliser la fonction dans une bibliothéque dans votre programme il faut utiliser la notation suivante : `bibliotheque.fonction()`. Par exemple si l'on veut utiliser la fonction `sin` dans la bibliothéque `math` il faut : 
 ```python

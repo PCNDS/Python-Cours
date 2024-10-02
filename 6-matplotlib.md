@@ -54,7 +54,7 @@ Quelques fonctions supplémentaires pour le formattage du graphique :
 ## Plusieurs courbes sur un même graphique
 Nous avons besoin, souvent, de mettres deux ou plusieurs courbes/séries de valeur sur un même graphique. C'est très facile de faire cela en PYTHON. Il suffit de créer chaque courbe avec une fonctioni `plot` séparée avant de donner l'instruction d'affiche avec `show()`. Voici un exemple : 
 
-```python!
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -73,7 +73,7 @@ Vous voyez maintenant l'intérêt du formattage et l'étiquettage de vos graphiq
 
 Un exemple plus complet donc : 
 
-```python!
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 
