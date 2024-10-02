@@ -66,6 +66,7 @@ Hello world !
 5
 ```
 - `type` : rèvle le "type" d'une donnée. Exemple : 
+
 ```python
 >>> type(10)
 'int' # c'est à dire un entier
@@ -73,6 +74,8 @@ Hello world !
 'float' # c'est à dire un décimal
 ```
 - `input()` : demande à l'utilisateur de saisir une donnée, de n'importe quel type (nombre, caractère, etc). Exemple : 
-```python!
+
+```python
 nom = input("quel est votre nom de famille?")
 # une fois executé la console demande à l'utilisateur de saisir un numbre, que PYTHON par la suite affecte dans la variable `nom`
+```
