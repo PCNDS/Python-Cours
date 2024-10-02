@@ -2,7 +2,7 @@
 
 Bonjour à tous. Le but de ces cours est de vous aider vous lancer dans le langage de programmation PYTHON, au niveau du lycée, et particulièrement du point de vu de ce que l'on utiliser en Physique-Chimie. 
 
-Voici donc un petit tableau du contenu= (Revenez souvent car ça va évoluer) : 
+Voici donc un petit tableau du contenu (Revenez souvent car ça va évoluer) : 
 1. [IDE - Environnement de codage](1-IDE.md)
 2. [Règles de Syntaxe](2-syntaxe.md)
 3. [Opérations des base dans PYTHON](3-operations.md)
