@@ -17,7 +17,7 @@ Il nous faut au moins une deuxième fonction dans `matplotlib` afin d'afficher n
 
 Exemple : 
 
-```python!
+```python   
 import numpy as np
 import matplotlib.pyplot as plt
 
