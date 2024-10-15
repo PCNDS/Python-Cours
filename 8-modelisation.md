@@ -61,7 +61,7 @@ print("le coefficient directeur est :", c, " N/g ; et Le coefficient de correlat
 
 
 ##### graphique de P = f(m)
-plt.plot(m,P, 'x', label = "donnees")
+plt.plot(m,P, 'x', label = "modèle lingress")
 plt.plot(m, a*m+b, 'r--', label = "modele polyfit")
 plt.title( "P = f(m)")
 plt.xlabel("masse m (kg)")
