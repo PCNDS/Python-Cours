@@ -1,6 +1,6 @@
 # Commencer avec PYTHON et la Physique (au lycée)
 
-Bonjour à tous. Le but de ces cours est de vous aider vous lancer dans le langage de programmation PYTHON, au niveau du lycée, et particulièrement du point de vu de ce que l'on utiliser en Physique-Chimie. 
+Bonjour à tous. Le but de ces cours est de vous aider vous lancer dans le langage de programmation PYTHON, au niveau du lycée, et particulièrement du point de vu de ce que l'on utilise en Physique-Chimie. 
 
 Voici donc un petit tableau du contenu (Revenez souvent car ça va évoluer) : 
 1. [IDE - Environnement de codage](1-IDE.md)
