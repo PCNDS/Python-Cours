@@ -53,12 +53,12 @@ np.dot(A,B)  # donne 214
 ```
 Il y a bien sur **beaucoup** d'autre fonction dans `numpy` mais pour nous (en physique au lycée) celles-là suffiront. 
 
-:::info
-Point de comparaison entre bibliothéques `math` et `numpy` : 
-
-```python
-import math
-import numpy as np
+> [!IMPORTANT]
+> Point de comparaison entre bibliothéques `math` et `numpy` : 
+> 
+> ```python
+> import math
+> import numpy as np
 
 # Utilisation de math (sur un scalaire)
 print(math.sqrt(4))  # Résultat : 2.0
