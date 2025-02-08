@@ -61,9 +61,7 @@ Il y a bien sur **beaucoup** d'autre fonction dans `numpy` mais pour nous (en ph
 > import numpy as np
 > 
 > # Utilisation de math (sur un scalaire)
-> ```python
 > print(math.sqrt(4))  # Résultat : 2.0
-> ```
 > 
 > # Utilisation de NumPy (sur un array)
 > ```python
