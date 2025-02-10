@@ -6,16 +6,16 @@ Un IDE (Independent Development Environement) - EDI en français - est *l'espace
 
 Il y a littéralement des centaines d'IDE pour coder en PYTHON, utilisable gratuitement. La majorité sont à télécharger et installer sur votre PC/Mac, et un certain nombre sont utilisable directement sur internet (dans le *nuage*) et donc nécessite aucune installation 
 
-:::info
+> [!INFO]
+>
+> Voici quelques suggestions d'IDE pour vous, **téléchargeable pour votre ordinateur personnel**: 
+> - **[Edupython](https://edupython.tuxfamily.org/#t%C3%A9l%C3%A9chargement)** : développé par l'éducation nationale pour l'utilisation par des lycéens. Ne marche que sur *Windows*
+> - **[SPYDER](https://www.spyder-ide.org/download/)** : Un IDE robuste et utilisable par tout niveau d'expertise. Installable sous toutes plateformes *windows/mac/linux*. [Bonne guide d'installation ici.](https://docs.spyder-ide.org/current/installation.html) 
+> 
+> Voici queqlues suggestion d'IDE **utilisable sur le web** :
+> - [**Google Colab**](https://colab.research.google.com/) : Un *notebook* basée sur *Jupyter*. Gratuit à utiliser si vous avez un compte Google/Gmail/Gdrive. l'avantage de cette plateform est le fait de pouvoir écrire comme dans un traitement de text ET inclure de bloc de code executable comme dans un IDE ET la possibilité de partage son document avec quelques d'autre. 
+> - [**Replit**](https://repl.it) : Un IDE dans le *cloud/nuage*. Il suffit de créer son compte gratuit et vous pouvez coder dans beaucoup de langue différentes, dont PYTHON. Pas besoin d'installer quoique ce soit. 
 
-Voici quelques suggestions d'IDE pour vous, **téléchargeable pour votre ordinateur personnel**: 
-- **[Edupython](https://edupython.tuxfamily.org/#t%C3%A9l%C3%A9chargement)** : développé par l'éducation nationale pour l'utilisation par des lycéens. Ne marche que sur *Windows*
-- **[SPYDER](https://www.spyder-ide.org/download/)** : Un IDE robuste et utilisable par tout niveau d'expertise. Installable sous toutes plateformes *windows/mac/linux*. [Bonne guide d'installation ici.](https://docs.spyder-ide.org/current/installation.html) 
-
-Voici queqlues suggestion d'IDE **utilisable sur le web** :
-- [**Google Colab**](https://colab.research.google.com/) : Un *notebook* basée sur *Jupyter*. Gratuit à utiliser si vous avez un compte Google/Gmail/Gdrive. l'avantage de cette plateform est le fait de pouvoir écrire comme dans un traitement de text ET inclure de bloc de code executable comme dans un IDE ET la possibilité de partage son document avec quelques d'autre. 
-- [**Replit**](https://repl.it) : Un IDE dans le *cloud/nuage*. Il suffit de créer son compte gratuit et vous pouvez coder dans beaucoup de langue différentes, dont PYTHON. Pas besoin d'installer quoique ce soit. 
-:::
 
 Une fois votre IDE installé vous pouvez commencer avec quelques opérations de base. 
 
