@@ -6,7 +6,7 @@ Un IDE (Independent Development Environement) - EDI en français - est *l'espace
 
 Il y a littéralement des centaines d'IDE pour coder en PYTHON, utilisable gratuitement. La majorité sont à télécharger et installer sur votre PC/Mac, et un certain nombre sont utilisable directement sur internet (dans le *nuage*) et donc nécessite aucune installation 
 
-> [!IMPORTANT]
+> [!TIP]
 >
 > Voici quelques suggestions d'IDE pour vous, **téléchargeable pour votre ordinateur personnel**: 
 > - **[Edupython](https://edupython.tuxfamily.org/#t%C3%A9l%C3%A9chargement)** : développé par l'éducation nationale pour l'utilisation par des lycéens. Ne marche que sur *Windows*
