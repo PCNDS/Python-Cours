@@ -7,6 +7,5 @@ Voici ce que contient (globalement) `math` :
 - Des constantes importantes : `pi`, `e`, `inf`, etc
 - d'autres fonctions *numériques* : `ceil(x)`, `floor(x)`, etc
 
-:::info
-La particularité de la bibliothéques `math` est le fait qu'elle est conçu pour opérer sur des ***scalaires***, c'est à dire un seul nombre à chaque fois, et *non* une série de nombre. 
-:::
+> [!TIP]
+> La particularité de la bibliothéques `math` est le fait qu'elle est conçu pour opérer sur des ***scalaires***, c'est à dire un seul nombre à chaque fois, et *non* une série de nombre. 
