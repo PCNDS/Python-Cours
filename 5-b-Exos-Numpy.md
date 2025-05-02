@@ -1,9 +1,5 @@
-# Feuille d'exercices - NumPy
-
----
 
 # NumPy pour la Physique : Feuille d’Activités
-
 
 ---
 
