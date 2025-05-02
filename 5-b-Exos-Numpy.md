@@ -1,8 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# very good. now I want all of the exercises from 1 - 20, the lines of code commented, all in the flavour of markdown that is used on GitHub, adn I want the solutions to be hidden using the <details> tag
-
-Voici la feuille d’activités complète en Markdown (GitHub-flavored), avec les 20 exercices et les solutions masquées dans des balises `<details>`. Chaque solution contient du code commenté ligne par ligne et la sortie attendue.
+# Feuille d'exercices - NumPy
 
 ---
 
