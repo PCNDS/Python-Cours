@@ -1,8 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# it should all be written in github markdown
-
-Voici la série d'exercices en Python pour la bibliothèque NumPy, formatée en Markdown compatible GitHub. Chaque exercice est suivi de sa solution cachée dans des balises `<details>` et `<summary>`, avec des commentaires ligne par ligne en français.
 
 ---
 
