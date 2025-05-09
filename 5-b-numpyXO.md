@@ -1,5 +1,7 @@
 
 
+# NumPy pour la Physique : Feuille d’Activités
+
 ---
 
 ## Fonction numpy : array
