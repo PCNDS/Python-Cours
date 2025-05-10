@@ -1,8 +1,5 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# each question needs to be more clear and directive and explicit in terms of what it is asking the student to do.
-
-Bien sûr ! Voici la version améliorée avec des consignes plus claires, directives et explicites pour chaque exercice, tout en conservant le format Markdown GitHub, les commentaires ligne à ligne, et la sortie affichée.
+# NumPy pour la Physique : Feuille d’Activités
 
 ---
 
