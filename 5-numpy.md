@@ -53,7 +53,7 @@ np.dot(A,B)  # donne 214
 ```
 Il y a bien sur **beaucoup** d'autre fonction dans `numpy` mais pour nous (en physique au lycée) celles-là suffiront. 
 
-> [!IMPORTANT]
+> {% hint style="info" %}
 > Point de comparaison entre bibliothéques `math` et `numpy` : 
 > 
 > ```python
@@ -68,3 +68,4 @@ Il y a bien sur **beaucoup** d'autre fonction dans `numpy` mais pour nous (en ph
 > array = np.array([1, 4, 9])
 > print(np.sqrt(array))  # Résultat : [1. 2. 3.]
 > ```
+> {% endhint %}
